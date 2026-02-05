@@ -5,20 +5,20 @@
 * 零售企业
 ** 健身房
 ** 咖啡店：批发
-** xref:零售/快餐.adoc[快餐店：批发]
+** xref:business/fastfood.adoc[快餐店：批发]
 ** 花店：批发
 ** 果蔬店：批发
 ** 美发店：批发
 ** 超市：批发
-** xref:零售/礼品.adoc[礼品店：批发+进口]
+** xref:business/gift.adoc[礼品店：批发+进口]
 ** 酒类商店：进口
 ** 书店：进口
 ** 夜店：进口
 ** 服装店：进口+工厂
 ** 电子产品商店：进口+工厂
 ** 珠宝店：进口+工厂
-* xref:业务/总部.adoc[总部]
-* xref:业务/仓库.adoc[仓库]
+* xref:business/head.adoc[总部]
+* xref:business/storage.adoc[仓库]
 * 办公类企业
 ** 平面设计
 ** 律师事务所
@@ -27,8 +27,8 @@
 
 == 资料
 
-* xref:资料/曼哈顿商学院.adoc[资料-曼哈顿商学院]
-* xref:资料/建筑大小.adoc[资料-建筑大小]
-* xref:资料/装修公司.adoc[资料-安装公司]
-* xref:资料/定价.adoc[资料-定价]
+* xref:resources/school.adoc[资料-曼哈顿商学院]
+* xref:resources/size.adoc[资料-建筑大小]
+* xref:resources/blueprint.adoc[资料-安装公司]
+* xref:resources/price.adoc[资料-定价]
 
